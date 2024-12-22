@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations version="1.1">
+  <meta>
+    <task>
+      <id>1</id>
+      <name>CVAT ANNOTATION</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <labels>
+        <label>
+          <name>road sign</name>
+          <color>000000</color>
+          <attributes />
+        </label>
+      </labels>
+    </task>
+  </meta>
+  <image id="0" name="31129666_s.jpg" width="480" height="640">
+    <box label="road sign" occluded="0" source="manual" xtl="111.02371" ytl="259.66418" xbr="141.28352" ybr="294.91943" z_order="0" attributes="" />
+  </image>
+</annotations>
