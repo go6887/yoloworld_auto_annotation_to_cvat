@@ -188,7 +188,7 @@ def main():
         # from PIL import Image
         # with Image.open(image_path) as img:
         #     width, height = img.size
-        # ただし以下では固定値600x600としています
+        # ただし以下では固定値480x640としています
 
         width, height = 480, 640
 
