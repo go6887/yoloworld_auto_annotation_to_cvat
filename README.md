@@ -3,7 +3,7 @@
 ## 本レポジトリについて
 こちらのレポジトリは下記記事で解説した内容のサンプルコードになります。
 
-https://qiita.com/go6887/private/d838e9a96e3165ce5614
+[https://qiita.com/go6887/private/d838e9a96e3165ce5614](https://qiita.com/go6887/items/d838e9a96e3165ce5614)
 
 
 ## 実行方法
