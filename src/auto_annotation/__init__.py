@@ -1,0 +1,1 @@
+"""Utility package for YOLO-based auto annotation converted to CVAT XML format."""
